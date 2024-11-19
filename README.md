@@ -4,7 +4,7 @@
 
 - <img src="https://cdn-icons-png.flaticon.com/512/3749/3749784.png" width="20" height="20" /> Student
 
-- <img src="https://cdn-icons-png.flaticon.com/512/7527/7527156.png" width="20" height="20" /> 20 years old
+- <img src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" width="20" height="20" /> 20 years old
 
 </br>
 
