@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
-- <img src="https://cdn-icons-png.flaticon.com/512/2278/2278923.png" width="10" height="10" /> Student
+- <img src="https://cdn-icons-png.flaticon.com/512/3749/3749784.png" width="20" height="20" /> Student
 
 - 💬 Ask me about **anything related with web development**
 
