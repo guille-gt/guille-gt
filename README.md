@@ -8,7 +8,7 @@
   which allows me to explore and learn more about the technologies I’m passionate about.
 </h3>
 
-<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <ul>
   <li><img src="https://cdn-icons-png.flaticon.com/512/3749/3749784.png" width="20" height="20" /> Student</li>
