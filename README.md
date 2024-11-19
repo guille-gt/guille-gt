@@ -1,10 +1,12 @@
 <h1 align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2278/2278923.png" width="50" height="50" />Hi! I'm Guille</h1>
+
+
 <h3 align="center">I am a dedicated Backend Developer with extensive experience in technologies such as PHP, Laravel, WordPress, JavaScript, and more!! I thrive on solving complex problems and tackling challenging projects. My curiosity to learn new things ensures that I stay updated with the latest advancements in the field.</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRhOHRzODhkOXYxbGUxN2Q1dGxxd2Z4a29jaGZsdjhqcTJxYmllOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etjjDkzmBbsLS/giphy.gif">
 
-- 🔭 I am currently working as a Backend Developer
+- <img src="https://cdn-icons-png.flaticon.com/512/2278/2278923.png" width="10" height="10" /> Student
 
 - 💬 Ask me about **anything related with web development**
 
