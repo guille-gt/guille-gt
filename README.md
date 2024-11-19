@@ -20,12 +20,12 @@
   </a> 
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height="40" width="40" />
-  </a> 
+  </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40">
+  </a>
   <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40">
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
 </p>
 
