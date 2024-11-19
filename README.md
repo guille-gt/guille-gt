@@ -3,35 +3,6 @@
 </h1>
 
 <h3 align="center">
-  <span class="animated-text"></span>
-</h3>
-
-<style>
-  .animated-text {
-    display: inline-block;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1.5rem;
-    color: #4caf50;
-    white-space: nowrap;
-    border-right: 2px solid #4caf50;
-    overflow: hidden;
-    width: 0;
-    animation: typing 4s steps(40, end), blink 0.5s step-end infinite alternate;
-  }
-
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink {
-    from { border-color: transparent; }
-    to { border-color: #4caf50; }
-  }
-</style>
-
-
-<h3 align="center">
   I’m taking my first steps into the world of web development and programming. 
   Currently, I’m studying a Higher Technical Degree in Web Application Development, 
   which allows me to explore and learn more about the technologies I’m passionate about.
