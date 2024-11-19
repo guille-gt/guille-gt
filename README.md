@@ -13,6 +13,8 @@
 <ul>
   <li><img src="https://cdn-icons-png.flaticon.com/512/3749/3749784.png" width="20" height="20" /> Student</li>
   <li><img src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" width="20" height="20" /> 20 years old</li>
+  <li><img src="https://cdn-icons-png.flaticon.com/512/5405/5405104.png" width="20" height="20" /> Spanish (Native), English (Intermediate)</li>
+
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
