@@ -2,13 +2,12 @@
 
 <br>
 
+<h3 align="center">I’m taking my first steps into the world of web development and programming. Currently, I’m studying a Higher Technical Degree in Web Application Development, which allows me to explore and learn more about the technologies I’m passionate about.</h3>
+
+<br>
 - <img src="https://cdn-icons-png.flaticon.com/512/3749/3749784.png" width="20" height="20" /> Student
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1864/1864509.png" width="20" height="20" /> 20 years old
-
-</br>
-
-<h3 align="center">I’m taking my first steps into the world of web development and programming. Currently, I’m studying a Higher Technical Degree in Web Application Development, which allows me to explore and learn more about the technologies I’m passionate about.</h3>
 
 <p align="left">
 </p>
