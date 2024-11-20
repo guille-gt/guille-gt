@@ -8,8 +8,7 @@
   which allows me to explore and learn more about the technologies I’m passionate about.
 </h3>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-<!-- https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif -->
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 <ul>
